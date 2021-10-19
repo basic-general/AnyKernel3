@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=SixTeen Kernel by Kyvangka1610
+kernel.string=General Kernel by basic
 do.devicecheck=1
 do.modules=1
 do.systemless=0
